@@ -9,7 +9,7 @@ https://docs.mendix.com/developerportal/deploy/private-cloud-monitor/
 https://docs.mendix.com/developerportal/deploy/private-cloud-monitor/#metrics-generation-modes
 
 
-### Scripts used to set up Kubernetes environment for moniroting Mendix Runtime
+### Scripts used to set up Kubernetes environment for monitoring Mendix Runtime
 
 
 ### To expose Prometheus:
