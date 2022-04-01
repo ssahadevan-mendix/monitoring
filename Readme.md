@@ -18,7 +18,8 @@ kubectl apply -f expose-prometheus.yaml
 
 ### Demo
 
-https://mendixtechnologybv-my.sharepoint.com/:v:/g/personal/sharath_sahadevan_mendix_com/EWHEGlE0FKBCjmTxVFEkidwBUoRIsreEdETCXQHdaf_SAw?e=Kunro3
+<a href="https://mendixtechnologybv-my.sharepoint.com/:v:/g/personal/sharath_sahadevan_mendix_com/EWHEGlE0FKBCjmTxVFEkidwBUoRIsreEdETCXQHdaf_SAw?e=Kunro3" target="_blank">Link to Demo</a>
+
 
 ### Screenshot
 
