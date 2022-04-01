@@ -16,7 +16,9 @@ https://docs.mendix.com/developerportal/deploy/private-cloud-monitor/#metrics-ge
 
 kubectl apply -f expose-prometheus.yaml
 
+### Demo
 
+https://mendixtechnologybv-my.sharepoint.com/:v:/g/personal/sharath_sahadevan_mendix_com/EWHEGlE0FKBCjmTxVFEkidwBUoRIsreEdETCXQHdaf_SAw?e=Kunro3
 
 ### Screenshot
 
